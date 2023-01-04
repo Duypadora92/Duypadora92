@@ -1,7 +1,7 @@
 # 📌 Socials
 
-[![Telegram](https://user-images.githubusercontent.com/13122796/178032018-6da37214-7474-4641-a1da-7af7db3a31cd.png)](https://twitter.com/revancedapp)
-[![Discord](https://user-images.githubusercontent.com/13122796/178032714-c51c7492-0666-44ac-99c2-f003a695ab50.png)](https://www.youtube.com/c/ReVanced)
+[![Telegram]![pngwing com](https://user-images.githubusercontent.com/121789347/210591843-90a428d3-cad6-4bd2-9c20-99638076c8ed.png)](https://t.me/ytpremium99)
+[![Discord]![5bb90755d3445-ca5b82aea883f855bf35103c6ea12cc7](https://user-images.githubusercontent.com/121789347/210591630-c2ded9cb-2496-4bee-a588-7e2dedc55fac.png)](https://discord.gg/dMqABJYd)
 
 # ♥️ Contributors
 
