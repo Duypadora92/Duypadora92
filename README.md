@@ -15,7 +15,8 @@
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
-| 🗂 [Build Apk](https://github.com/Duypadora92/YT-Premium) | [Duypadora92](https://github.com/Duypadora92/YT-Premium/graphs/contributors) |
+| 🗂 [Build Apk](https://github.com/Duypadora92/YT-Premium) | [![1671932428173](https://user-images.githubusercontent.com/121789347/210584835-9a6c8e3b-ea4f-4bf8-8949-9fc4fa851f92.png)]
+(https://github.com/Duypadora92/YT-Premium/graphs/contributors) |
 | 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli) | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors) |
 | 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher) | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors) |
 | 🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches) | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors) |
