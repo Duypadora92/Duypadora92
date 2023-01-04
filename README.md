@@ -1,7 +1,8 @@
 # 📌 Socials
 
-[![Telegram][(https://github.com/Duypadora92/Duypadora92/issues/2#issue-1519182837)](https://t.me/ytpremium99)
-[![Discord]![5bb90755d3445-ca5b82aea883f855bf35103c6ea12cc7](https://user-images.githubusercontent.com/121789347/210591630-c2ded9cb-2496-4bee-a588-7e2dedc55fac.png)](https://discord.gg/dMqABJYd)
+[![Duypadora92 Discord](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://discord.gg/dMqABJYd)
+
+[![Duypadora92 Telegram](https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png)](https://t.me/ytpremium99)
 
 # ♥️ Contributors
 
@@ -15,7 +16,7 @@
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
-| 🧱 [Build Apk](https://github.com/Duypadora92/YT-Premium) | ![1671932428173](https://user-images.githubusercontent.com/121789347/210584835-9a6c8e3b-ea4f-4bf8-8949-9fc4fa851f92.png) |
+| 🧱 [YT-Premium Apk](https://github.com/Duypadora92/YT-Premium) | ![1671932428173](https://user-images.githubusercontent.com/121789347/210584835-9a6c8e3b-ea4f-4bf8-8949-9fc4fa851f92.png) |
 | 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli) | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors) |
 | 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher) | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors) |
 | 🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches) | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors) |
