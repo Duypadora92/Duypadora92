@@ -5,8 +5,6 @@
 
 # ♥️ Contributors
 
-This is a list of contributors of [ReVanced](https://revanced.app).
-
 [revanced-patcher]: https://contrib.rocks/image?repo=revanced/revanced-patcher
 [revanced-patches]: https://contrib.rocks/image?repo=revanced/revanced-patches
 [revanced-cli]: https://contrib.rocks/image?repo=revanced/revanced-cli
@@ -17,7 +15,7 @@ This is a list of contributors of [ReVanced](https://revanced.app).
 
 |        🔻 Project        | ❤ Contributors                                                                                    |
 | :----------------------: | :------------------------------------------------------------------------------------------------ |
-| 🗂 [Build File Apk](https://github.com/Duypadora92/YT-Premium) | [![build file apk]](https://github.com/Duypadora92/) |
+| 🗂 [Build File Apk](https://github.com/Duypadora92/YT-Premium) | [![Build-File-Apk]](https://github.com/Duypadora92/) |
 | 💻 [ReVanced CLI](https://github.com/revanced/revanced-cli) | [![revanced-cli]](https://github.com/revanced/revanced-cli/graphs/contributors) |
 | 💉 [ReVanced Patcher](https://github.com/revanced/revanced-patcher) | [![revanced-patcher]](https://github.com/revanced/revanced-patcher/graphs/contributors) |
 | 🧩 [ReVanced Patches](https://github.com/revanced/revanced-patches) | [![revanced-patches]](https://github.com/revanced/revanced-patches/graphs/contributors) |
