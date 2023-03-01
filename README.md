@@ -1,6 +1,6 @@
 # 📌 Socials
 
-[![Duypadora92 Discord](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://discord.gg/dMqABJYd)
+[![Duypadora92 Discord](https://user-images.githubusercontent.com/13122796/178032563-d4e084b7-244e-4358-af50-26bde6dd4996.png)](https://discord.gg/DS4CPxgA)
 [![Duypadora92 Telegram](https://user-images.githubusercontent.com/13122796/178032213-faf25ab8-0bc3-4a94-a730-b524c96df124.png)](https://t.me/ytpremium99)
 
 # ♥️ Contributors
